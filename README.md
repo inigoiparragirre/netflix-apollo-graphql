@@ -1,3 +1,12 @@
+## React Native Netflix Starter App with Graphql and Apollo client
+
+Using the CRNA, the intention is to develop a Netflix demo using Graphql features, adopting Apollo client 2.0.
+
+Start repository forked from [@khanghoang/netflix](https://github.com/khanghoang/netflix).
+More info on Apollo client: [Github - Apollo Client](https://github.com/apollographql/apollo-client)
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
