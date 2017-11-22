@@ -2,6 +2,18 @@
 
 Using the CRNA, the intention is to develop a Netflix demo using Graphql features, adopting Apollo client 2.0.
 
+## Features
+
+* Redux store
+* Graphql queries
+
+
+
+
+
+
+
+
 Start repository forked from [@khanghoang/netflix](https://github.com/khanghoang/netflix).
 More info on Apollo client: [Github - Apollo Client](https://github.com/apollographql/apollo-client)
 
