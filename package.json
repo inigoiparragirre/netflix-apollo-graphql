@@ -1,5 +1,5 @@
 {
-  "name": "netflix-expo2",
+  "name": "netflix-apollo-graphql",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -19,16 +19,26 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "apollo-cache-inmemory": "^1.1.1",
+    "apollo-client": "^2.0.3",
+    "apollo-link-http": "^1.2.0",
+    "babel-preset-react-native": "2.1.0",
     "expo": "^22.0.2",
+    "graphql": "^0.11.7",
+    "graphql-tag": "^2.5.0",
     "react": "16.0.0-beta.5",
     "react-native": "^0.49.5",
+    "react-native-modalbox": "^1.4.2",
+    "react-navigation": "^1.0.0-beta.19",
     "react-redux": "^5.0.6",
+    "recompose": "^0.26.0",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
     "redux-api-call": "^1.0.5",
     "redux-batched-actions": "^0.1.6",
     "redux-modal": "^1.7.0",
     "redux-observable": "^0.17.0",
+    "reselect": "^3.0.1",
     "rxjs": "^5.5.2"
   }
 }
